@@ -1,5 +1,6 @@
 Two Flask apps I've been using for a while to self-host my external IP and
 hostname resolvers over HTTP.
 
-TODO:
-- Rewrite as pure WSGI applications.
+The Flask apps have been rewritten as pure WSGI apps:
+https://github.com/flebel/wsgi-ip-hostname-resolvers
+
